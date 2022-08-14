@@ -1,4 +1,4 @@
-/* COP 3502C Assignment 4 
+/*
 This program is written by: Ricardo Carvalheira */ 
 
 #include <stdio.h>
